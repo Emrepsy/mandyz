@@ -8,4 +8,4 @@ thonet sandalye
 ✅ Masa 
 ✅ Aksesuar 
 
-📌 <a href="#">RESTORAN VE CAFE SANDAYELERİ</a>
+📌 <a href="https://albanis.com.tr" target="_blank">RESTORAN VE CAFE SANDAYELERİ</a>
